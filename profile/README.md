@@ -25,10 +25,6 @@ Connect with fellow event organizers, developers, and enthusiasts in the Eventro
 
 - Eventron Discussion Forum: Join the conversation, ask questions, and share your event-hosting experiences.
 
-- Eventron Blog: Stay updated with the latest news, tips, and success stories from the Eventron community.
-
-- Eventron on Twitter: Follow us on Twitter for updates, event highlights, and more. 📢
-
 ## Get Started Today 🎈
 
 Hosting an event in your city has never been easier! Get started with Eventron and become a part of a vibrant community passionate about bringing people together through exciting events.
