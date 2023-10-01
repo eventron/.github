@@ -4,7 +4,7 @@
 </div>
 
 
-Eventron is a community-driven organization dedicated to helping you host events in your city and beyond. GitHub is the perfect platform to connect with like-minded individuals and showcase your event-planning skills to the world. 🌍
+Eventron is a community-driven open source project dedicated to helping you to list your events in your city and beyond. GitHub is the perfect platform to connect with like-minded individuals and showcase your event-planning skills to the world. 🌍
 
 ## What You'll Find Here 📚
 
