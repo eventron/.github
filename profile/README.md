@@ -27,7 +27,8 @@ Connect with fellow event organizers, developers, and enthusiasts in the Eventro
 - Eventron Discussion Forum: Join the conversation, ask questions, and share your event-hosting experiences.
 
 ## Get Started Today 🎈
-
 Hosting an event in your city has never been easier! Get started with Eventron and become a part of a vibrant community passionate about bringing people together through exciting events.
 
-Let's make every event a memorable one with Eventron! 🌟
+## Start Your OPEN SOURCE JOURNEY TODAY WITH HACKTOBERFEST
+
+![hf10_wallpaper_sponsors_1920x1080](https://github.com/eventron/.github/assets/97366282/9162b287-7688-473c-8f32-3e0a6cf2ed0a)
