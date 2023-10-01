@@ -1,6 +1,6 @@
 ![Untitled-2](https://github.com/eventron/.github/assets/97366282/7e3eacc1-0994-47b9-8a6d-2ed90a4a5ddc)
 <div align="center">
-  <h1>Welcome to Eventron - List Your Events! 🎉</h1>
+  <h1>Welcome to Eventron - Share Your Events! 🎉</h1>
 </div>
 
 
